@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @soulassassin7
+- 👋 Hi, I’m Md Sibtain
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning different machine learning algorithms
 
