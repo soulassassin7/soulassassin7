@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md Sibtain
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning different machine learning algorithms
+- 🌱 Currently learning different machine learning algorithms
 
 
 <!---
