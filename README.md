@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Md Sibtain
-- 👀 I’m interested in Machine Learning and AI
+- 👀 I’m interested in Machine Learning and Web Development
 - 🌱 Currently doing deep learning
 
 
