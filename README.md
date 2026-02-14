@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md Sibtain
-- 👀 I’m interested in Machine Learning and Web Development
-- 🌱 Currently doing deep learning
+- 👀 I’m interested in Systems Engineering and Backend development.
+- 🌱 Currently doing systems programming.
 
 
 <!---
